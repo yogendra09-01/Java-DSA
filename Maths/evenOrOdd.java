@@ -11,6 +11,7 @@ public class evenOrOdd{
         }else{
             System.out.println("No. is odd");
         }
+        sc.close();
     }
 
     static boolean isEven(int num){

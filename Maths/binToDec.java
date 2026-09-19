@@ -1,6 +1,6 @@
 public class binToDec {
     public static void main(String[] args) {
-       decNum(101001); 
+       decNum(101); 
     }
 
     public static void decNum(int binNum){
